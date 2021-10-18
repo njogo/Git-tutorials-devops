@@ -1,1 +1,1 @@
-print("welcome to edurika!" "woooh")
+print("welcome to edureki wilson")
